@@ -1,2 +1,3 @@
-2 + 2
-a - b
+def main_sum(x, y):
+    return x +y
+
